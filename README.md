@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswajc&label=Profile%20views&color=0e75b6&style=flat" alt="aswajc" /> </p>
 
-- 🌱 I’m currently learning **Javascript,Figma**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **aswajcheruvath@gmail.com**
 
